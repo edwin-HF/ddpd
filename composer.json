@@ -1,4 +1,6 @@
 {
+    "name": "edv/ddpd",
+    "description": "多多进宝",
     "require": {
         "php": "^5.5|^7.0",
         "ext-curl": "*",
